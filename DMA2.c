@@ -40,4 +40,5 @@ int main()
         }
     }
     printf("\n%d",max);
+    free(A);
 }
